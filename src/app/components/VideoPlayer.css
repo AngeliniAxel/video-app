@@ -1,3 +1,4 @@
-.shaka-controls-container {
+.shaka-controls-button-panel {
     background-color: black;
+    border-radius: 8px;
 }

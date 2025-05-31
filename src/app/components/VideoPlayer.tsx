@@ -5,7 +5,11 @@ import shaka from 'shaka-player/dist/shaka-player.ui';
 import 'shaka-player/dist/controls.css';
 import './VideoPlayer.css';
 
-const VideoPlayer = () => {
+interface VideoPlayerProps {
+    src: string;
+}
+
+const VideoPlayer: React.FC<VideoPlayerProps> = ({ src }) => {
     const videoRef = useRef<HTMLVideoElement | null>(null);
     const containerRef = useRef<HTMLDivElement | null>(null);
 
@@ -37,12 +41,12 @@ const VideoPlayer = () => {
         };
         ui.configure(config);
 
-        player.load('https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd');
+        player.load(src);
     }, []);
 
     return (
         <div className='w-xl h-auto' ref={containerRef}>
-            <video ref={videoRef} />
+            <video autoPlay muted ref={videoRef} />
         </div>
     );
 };
