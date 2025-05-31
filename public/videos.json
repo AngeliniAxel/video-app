@@ -1,72 +1,100 @@
 [
     {
         "id": "1",
-        "title": "Big Buck Bunny (DASH)",
-        "description": "A short animated film by Blender Foundation.",
-        "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-        "url": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd"
+        "title": "Big Buck Bunny",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Big_Buck_Bunny_thumbnail_vlc.png/1200px-Big_Buck_Bunny_thumbnail_vlc.png",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "Vlc Media Player",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+        "subscriber": "25254545 Subscribers"
     },
     {
         "id": "2",
-        "title": "Tears of Steel (DASH)",
-        "description": "Sci-fi short film using visual effects and 3D compositing.",
-        "thumbnail": "https://mango.blender.org/wp-content/themes/mango/images/project-tears-of-steel.jpg",
-        "url": "https://storage.googleapis.com/shaka-demo-assets/tears_of_steel/manifest.mpd"
+        "title": "The first Blender Open Movie from 2006",
+        "thumbnailUrl": "https://i.ytimg.com/vi_webp/gWw23EYM9VM/maxresdefault.webp",
+        "duration": "12:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "Blender Inc.",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+        "subscriber": "25254545 Subscribers"
     },
     {
         "id": "3",
-        "title": "Sintel Trailer (HLS)",
-        "description": "Trailer for the open movie project Sintel.",
-        "thumbnail": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_trailer.jpg",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "title": "For Bigger Blazes",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Dr9C2oswZfA/maxresdefault.jpg",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "T-Series Regional",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+        "subscriber": "25254545 Subscribers"
     },
     {
         "id": "4",
-        "title": "NASA TV UHD (HLS)",
-        "description": "Live stream from NASA in ultra-high definition.",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.png",
-        "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+        "title": "For Bigger Escape",
+        "thumbnailUrl": "https://img.jakpost.net/c/2019/09/03/2019_09_03_78912_1567484272._large.jpg",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "T-Series Regional",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "description": " Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+        "subscriber": "25254545 Subscribers",
+        "isLive": false
     },
     {
         "id": "5",
-        "title": "Elephants Dream (DASH)",
-        "description": "The first open movie by Blender Foundation.",
-        "thumbnail": "https://orange.blender.org/wp-content/themes/orange/images/project-elephants-dream.jpg",
-        "url": "https://storage.googleapis.com/shaka-demo-assets/elephants_dream/manifest.mpd"
+        "title": "Big Buck Bunny",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Big_Buck_Bunny_thumbnail_vlc.png/1200px-Big_Buck_Bunny_thumbnail_vlc.png",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "Vlc Media Player",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+        "subscriber": "25254545 Subscribers"
     },
     {
         "id": "6",
-        "title": "Art of Motion (HLS)",
-        "description": "Parkour documentary with high-energy sequences.",
-        "thumbnail": "https://i.ytimg.com/vi/WEeqHj3Nj2c/maxresdefault.jpg",
-        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        "title": "For Bigger Blazes",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Dr9C2oswZfA/maxresdefault.jpg",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "T-Series Regional",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+        "subscriber": "25254545 Subscribers",
+        "isLive": false
     },
     {
         "id": "7",
-        "title": "Ocean Waves (DASH)",
-        "description": "Relaxing ocean waves for testing and demo.",
-        "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-        "url": "https://storage.googleapis.com/shaka-demo-assets/ocean/manifest.mpd"
+        "title": "For Bigger Escape",
+        "thumbnailUrl": "https://img.jakpost.net/c/2019/09/03/2019_09_03_78912_1567484272._large.jpg",
+        "duration": "8:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "T-Series Regional",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "description": " Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+        "subscriber": "25254545 Subscribers"
     },
     {
         "id": "8",
-        "title": "For Bigger Blazes (HLS)",
-        "description": "Sample video from Google's test assets.",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
-        "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.m3u8"
-    },
-    {
-        "id": "9",
-        "title": "For Bigger Joyrides (HLS)",
-        "description": "Another Google sample HLS video.",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-        "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.m3u8"
-    },
-    {
-        "id": "10",
-        "title": "Sintel (Full Movie, DASH)",
-        "description": "Full open movie 'Sintel' from Blender Foundation.",
-        "thumbnail": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_trailer.jpg",
-        "url": "https://bitmovin-a.akamaihd.net/content/sintel/sintel.mpd"
+        "title": "The first Blender Open Movie from 2006",
+        "thumbnailUrl": "https://i.ytimg.com/vi_webp/gWw23EYM9VM/maxresdefault.webp",
+        "duration": "12:18",
+        "uploadTime": "May 9, 2011",
+        "views": "24,969,123",
+        "author": "Blender Inc.",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "description": "Song : Raja Raja Kareja Mein Samaja\nAlbum : Raja Kareja Mein Samaja\nArtist : Radhe Shyam Rasia\nSinger : Radhe Shyam Rasia\nMusic Director : Sohan Lal, Dinesh Kumar\nLyricist : Vinay Bihari, Shailesh Sagar, Parmeshwar Premi\nMusic Label : T-Series",
+        "subscriber": "25254545 Subscribers"
     }
 ]
