@@ -1,0 +1,16 @@
+.scrollbar::-webkit-scrollbar {
+    width: 8px;
+    background: #23272f;
+}
+.scrollbar::-webkit-scrollbar-thumb {
+    background: #444c56;
+    border-radius: 6px;
+    border: 2px solid #23272f;
+}
+.scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #d44338; /* accent color on hover */
+}
+.scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #444c56 #23272f;
+}
