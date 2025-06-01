@@ -9,7 +9,7 @@ interface VideoCardProps {
 
 const VideoCard = ({ video }: VideoCardProps) => {
     return (
-        <div className='rounded-lg shadow-md  p-2 hover:scale-105  transition-transform  duration-200 w-[340px]'>
+        <div className='rounded-lg shadow-md hover:scale-105  transition-transform  duration-200  w-full max-w-[500px] p-6 lg:py-0'>
             <Link href={`/video/${video.id}`}>
                 <Image
                     width={320}

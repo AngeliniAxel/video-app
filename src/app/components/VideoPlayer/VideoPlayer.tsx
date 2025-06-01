@@ -45,10 +45,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({ src }) => {
     }, [src]);
 
     return (
-        <div
-            className='w-full max-w-2xl sm:max-w-xl md:max-w-2xl lg:max-w-4xl h-auto my-8'
-            ref={containerRef}
-        >
+        <div className='w-full h-auto  rounded-lg overflow-hidden' ref={containerRef}>
             <video autoPlay muted ref={videoRef} />
         </div>
     );
