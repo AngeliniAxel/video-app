@@ -1,17 +1,12 @@
 'use client';
-import dynamic from 'next/dynamic';
 
-const VideoPlayer = dynamic(() => import('./components/VideoPlayer'), {
-    ssr: false,
-});
+import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 
 export default function Home() {
-    return (
-        <div>
-            <main>
-                <h1>Hi</h1>
-                <VideoPlayer />
-            </main>
-        </div>
-    );
+    const router = useRouter();
+    useEffect(() => {
+        router.replace('/video/1');
+    }, [router]);
+    return null;
 }
