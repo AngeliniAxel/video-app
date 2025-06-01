@@ -1,11 +1,11 @@
 'use client';
 
-import VideoCard from '@/app/components/VideoCard/VideoCard';
 import { Video } from '../../interfaces/video';
 import axios from 'axios';
 import dynamic from 'next/dynamic';
 import React, { useEffect, useState } from 'react';
 import './page.css';
+import VideoList from '@/app/components/VideoList/VideoList';
 
 const VideoPlayer = dynamic(() => import('../../components/VideoPlayer/VideoPlayer'), {
     ssr: false,
@@ -64,11 +64,7 @@ const Page = ({ params }: Props) => {
                         </div>
                     )}
                 </div>
-                <div className='w-full flex flex-col flex-wrap lg:flex-row items-center gap-8 lg:w-[380px] h-auto lg:h-[100vh] lg:overflow-y-auto py-1 overflow-hidden scrollbar'>
-                    {unselectedVideos?.map((video: Video) => (
-                        <VideoCard key={video.id} video={video} />
-                    ))}
-                </div>
+                <VideoList videos={unselectedVideos} />
             </div>
         </div>
     );
